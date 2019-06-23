@@ -34,7 +34,6 @@ class ShoppingList extends Component {
                 </ListGroupItem>
               </CSSTransition>
             ))}
-            ;
           </TransitionGroup>
         </ListGroup>
       </Container>
