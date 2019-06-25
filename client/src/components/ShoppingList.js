@@ -41,6 +41,10 @@ class ShoppingList extends Component {
                 </ListGroupItem>
               </CSSTransition>
             ))}
+<<<<<<< HEAD
+=======
+           
+>>>>>>> 384adb9fe4cfc6b32a66b01bb8f4e05251edcf0e
           </TransitionGroup>
         </ListGroup>
       </Container>
